@@ -1,0 +1,64 @@
+
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/CAZMczF.png",Aljazeera Mubasher
+#EXTVLCOPT:http-user-agent=vietngatv
+http://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+#EXTINF:-1 group-title="Tiếng Nga" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.ibb.co/VvdNSBJ/CGTN-arabic.png",CGTN Arabic
+#EXTVLCOPT:http-user-agent=vietngatv
+http://livear.cgtn.com/1000a/prog_index.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.ibb.co/fkxTRPY/CGTN-Espanol.png",CGTN Espanol
+#EXTVLCOPT:http-user-agent=vietngatv
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.ibb.co/2qmzzGF/CGTN-fran-ais.png",CGTN Francais
+#EXTVLCOPT:http-user-agent=vietngatv
+http://livefr.cgtn.com/1000f/prog_index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/FbKbeGo.png" group-title="Tiếng Nga",Current time
+#EXTVLCOPT:http-user-agent=vietngatv
+http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Arabic
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Deutsch
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/NaJrOIz.png",Deutsche Welle Espanol
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 Espanol
+#EXTVLCOPT:http-user-agent=vietngatv
+http://static.france24.com/live/F24_ES_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="TIN TỨC" tvg-logo="https://i.imgur.com/zdze6Iq.png",FRANCE 24 Arabic
+#EXTVLCOPT:http-user-agent=vietngatv
+http://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/ZsYvvwL.png",Public TV of Armenia
+#EXTVLCOPT:http-user-agent=vietngatv
+http://serv30.vintera.tv:8081/test/h1_arm/index.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today Arabic
+#EXTVLCOPT:http-user-agent=vietngatv
+https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today French
+#EXTVLCOPT:http-user-agent=vietngatv
+https://rt-fra.gcdn.co/live/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/3E4KGqG.png",Russia Today Español
+#EXTVLCOPT:http-user-agent=vietngatv
+https://rt-esp.gcdn.co/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Chinese
+#EXTVLCOPT:http-user-agent=vietngatv
+http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="Nước Ngoài",TV BRICS Portuguese
+#EXTVLCOPT:http-user-agent=vietngatv
+http://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Kazakh
+#EXTVLCOPT:http-user-agent=vietngatv
+http://serv30.vintera.tv:8081/kazahtv/stream_ru/playlist.m3u8
+#EXTINF:-1 group-title="Nước Ngoài" tvg-logo="https://i.imgur.com/048jWpk.jpg",Qazaq TV | Kyrgyz
+#EXTVLCOPT:http-user-agent=vietngatv
+http://serv30.vintera.tv:8081/kazahtv/stream_kg/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/xjJIZ5r.png" group-title="Âm nhạc Việt - Nga",Первый Музыкальный | 1Muz HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://rtmp.one.by:1300
+#EXTINF:0 tvg-logo="https://i.imgur.com/oySoEmx.png" group-title="Âm nhạc Việt - Nga",Первый Музыкальный | 1Muz RU HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://rtmp.one.by:2300

@@ -1,0 +1,110 @@
+#EXTM3U
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/Y3nkDK7/FPT-Play.png",Vòng loại World Cup 2022 Khu vực châu á | Trực tiếp và Độc quyền trên Việt Nga Sports
+#EXTVLCOPT:http-user-agent=vietngatv
+http://livecdn.fptplay.net/tvc/f-event_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_1.png" group-title="SPORTS",Матч! Футбол 1 FHD
+acestream://dd2c44a9723af914d02b31bc7bb9e5e3d3ad9743
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_2.png" group-title="SPORTS",Матч! Футбол 2 FHD
+acestream://cfc79383b29505fe88c4875e4997cbfce1a5196f
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/match_ru_futbol_3.png" group-title="SPORTS",Матч! Футбол 3 FHD
+acestream://b120fc00572b516163aaa624f0d1ba095af58f9a
+#EXTINF:-1 tvg-logo="http://hoaivnpt.duckdns.org/icon/MatchTV.png" group-title="SPORTS",Матч ТВ FHD
+acestream://c7f93329f3790d54491fe2c4146b59d0514d38b8
+#EXTINF:-1 tvg-logo="http://hoaivnpt.duckdns.org/icon/Match Premier.png" group-title="SPORTS",Match Premier FHD
+acestream://513dabafb21429d6eff9813022b2d41f49dc5bdb
+
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="NOT 24/4",PIMPLETV 1 HD 50FPS
+acestream://11b6aa16e978a409504b9e3e9c3b29c56f392bdf
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="NOT 24/4",PIMPLETV 2 HD 50FPS
+acestream://955bc653f090c238b8d933b41d8a66fee1bf7893
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="NOT 24/4",PIMPLETV 3 HD 50FPS
+acestream://d2a36e305458e200c2a4952317fc33e38bd80187
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="NOT 24/4",PIMPLETV 4 FHD 50FPS EPL
+acestream://722f34a71cedbeb96bda429dc0f4d0e015995ea4
+#EXTINF:-1 tvg-logo="https://betonmobile.ru/wp-content/uploads/2020/09/asdasdasd.jpg" group-title="NOT 24/4",PIMPLETV 5 FHD 50FPS EPL
+acestream://ceaa2553d401c294166b8e498f5aaa1ef1aee8e4
+
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 1
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 2
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 3
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc03_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 4
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc04_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 5
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc05_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 6
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc06_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 7
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc07_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 8
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc08_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 9
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc09_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Á (AFC)" tvg-logo="https://i.ibb.co/mhc0x7x/AFC-cup.jpg",AFC 10
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/afcchampion/afc10_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="LĐBĐ Thế giới (FIFA)" tvg-logo="https://i.ibb.co/JxkK2VP/FIFA-World-Cup.png",Vòng loại WORLD CUP 1
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup01_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Thế giới (FIFA)" tvg-logo="https://i.ibb.co/JxkK2VP/FIFA-World-Cup.png",Vòng loại WORLD CUP 2
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup02_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Thế giới (FIFA)" tvg-logo="https://i.ibb.co/JxkK2VP/FIFA-World-Cup.png",Vòng loại WORLD CUP 3
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup03_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Thế giới (FIFA)" tvg-logo="https://i.ibb.co/JxkK2VP/FIFA-World-Cup.png",Vòng loại WORLD CUP 4
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup04_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Thế giới (FIFA)" tvg-logo="https://i.ibb.co/JxkK2VP/FIFA-World-Cup.png",Vòng loại WORLD CUP 5
+#EXTVLCOPT:http-user-agent=vietngatv
+https://livecdn.fptplay.net/hdevent/worldcup05_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="LĐBĐ Châu Âu (UEFA)" tvg-logo="https://i.ibb.co/yNQc9zt/VNTVLIVE.png",UEFA Champions League và Europa League 1
+#EXTVLCOPT:http-user-agent=vietngatv
+https://broadcast-lic.fptplay.net/sportlive/uefa01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Âu (UEFA)" tvg-logo="https://i.ibb.co/yNQc9zt/VNTVLIVE.png",UEFA Champions League và Europa League 2
+#EXTVLCOPT:http-user-agent=vietngatv
+https://broadcast-lic.fptplay.net/sportlive/uefa02_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Âu (UEFA)" tvg-logo="https://i.ibb.co/yNQc9zt/VNTVLIVE.png",UEFA Champions League và Europa League 3
+#EXTVLCOPT:http-user-agent=vietngatv
+https://broadcast-lic.fptplay.net/sportlive/uefa03_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Âu (UEFA)" tvg-logo="https://i.ibb.co/yNQc9zt/VNTVLIVE.png",UEFA Champions League và Europa League 4
+#EXTVLCOPT:http-user-agent=vietngatv
+https://broadcast-lic.fptplay.net/sportlive/uefa04_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Âu (UEFA)" tvg-logo="https://i.ibb.co/yNQc9zt/VNTVLIVE.png",UEFA Champions League và Europa League 5
+#EXTVLCOPT:http-user-agent=vietngatv
+https://broadcast-lic.fptplay.net/sportlive/uefa05_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Âu (UEFA)" tvg-logo="https://i.ibb.co/yNQc9zt/VNTVLIVE.png",UEFA Youth League 1
+#EXTVLCOPT:http-user-agent=vietngatv
+https://broadcast-lic.fptplay.net/sportlive/youth01_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="LĐBĐ Châu Âu (UEFA)" tvg-logo="https://i.ibb.co/yNQc9zt/VNTVLIVE.png",UEFA Youth League 2
+#EXTVLCOPT:http-user-agent=vietngatv
+https://broadcast-lic.fptplay.net/sportlive/youth02_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="РОССИЯ/NGA" tvg-logo="https://imgur.com/5D1gwiv.png",Россия РТР | RTR Planeta Asia
+#EXTVLCOPT:http-user-agent=vietngatv
+http://a3569458063-s26881.cdn.ngenix.net/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/fIkd01t.png",ТВ Центр | TV Center
+#EXTVLCOPT:http-user-agent=vietngatv
+http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/18TAzYV.png",РЕН ТВ | REN TV
+#EXTVLCOPT:http-user-agent=vietngatv
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 group-title="Other",ДимГрад 24 HD 
+#EXTVLCOPT:http-user-agent=vietngatv
+http://live-1.otcnet.ru/dimgrad/index.m3u8
+#EXTINF:-1 group-title="Other",УлПравда ТВ HD 
+#EXTVLCOPT:http-user-agent=vietngatv
+http://live-1.otcnet.ru/pravdatv/index.m3u8

@@ -1,0 +1,213 @@
+#EXTM3U
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOV1.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/jwvtkqq/VOV1.png",VOV1 (Server 2)
+#EXTVLCOPT:http-user-agent=vietngatv
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/KzJBvbx/VOV2.png",VOV2
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOV2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/KzJBvbx/VOV2.png",VOV2 (Server 2)
+#EXTVLCOPT:http-user-agent=vietngatv
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOV3.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/7XGZcrW/VOV3.png",VOV3 (Server 2)
+#EXTVLCOPT:http-user-agent=vietngatv
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/MGyJGmS/VOV4.png",VOV4 ĐBSCL
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/k899wfj/VOV5.png",VOV5
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOV5.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.ibb.co/g78odU/r_vov247.png",VOV ENGLISH 24/7
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:7007/;stream/
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG HN
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOVGTHN.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/QkBsQRK/VOVGT.png",VOV GIAO THÔNG TPHCM
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOVGTHCM.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://image.ibb.co/gu5OCp/r-vovmekong1.png",VOV MEKONG
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/MEKONG.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/xJ1h54B/VOV-SK.png",VOV FM 89
+#EXTVLCOPT:http-user-agent=vietngatv
+http://media.kythuatvov.vn:1936/live/VOV89.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Vesti | Video
+#EXTVLCOPT:http-user-agent=vietngatv
+http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/px8nPZK/FM.png",Радио Вести FM | Vesti | Audio
+#EXTVLCOPT:http-user-agent=vietngatv
+http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Mayak | Video
+#EXTVLCOPT:http-user-agent=vietngatv
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mayak.smil/playlist.m3u8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/cgxDLfx/Mayk.png",Радио Маяк | Mayak | Audio
+#EXTVLCOPT:http-user-agent=vietngatv
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/bQbggX9/Radio-Russia.jpg",Радио России | Radio Russian
+#EXTVLCOPT:http-user-agent=vietngatv
+http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wG8KyeG.png" group-title="Radio",Страна FM | Strana FM HD
+#EXTVLCOPT:http-user-agent=vietngatv
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NBWyJJQ.png" group-title="Radio",Радио Шансон | Radio Chanson
+#EXTVLCOPT:http-user-agent=vietngatv
+http://chanson.hostingradio.ru:8041/chanson128.mp3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2qx7gT2/nr.png" group-title="Radio",Новое Радио | New Radio
+#EXTVLCOPT:http-user-agent=vietngatv
+http://icecast.newradio.cdnvideo.ru/newradio3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/XzrPkFm/nashe-radio.jpg",Наше радио | Nashe Radio
+#EXTVLCOPT:http-user-agent=vietngatv
+http://nashe3.hostingradio.ru/nashe-128.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/b34XSLp/RetroFM.png",Ретро FM | Retro
+#EXTVLCOPT:http-user-agent=vietngatv
+http://retroserver.streamr.ru:8043/retro128
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/ZHNZmzJ/yuniton.jpg",Юнитон | Uniton
+#EXTVLCOPT:http-user-agent=vietngatv
+http://online.uniton.ru:8300/RadioUniton128
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/3T9GTGZ/Europa-Plus.png",Europa Plus Radio
+#EXTVLCOPT:http-user-agent=vietngatv
+http://ep128.hostingradio.ru:8030/ep128
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/TKDzNDw/businessfm.jpg",Business FM
+#EXTVLCOPT:http-user-agent=vietngatv
+http://bfm.hostingradio.ru:8004/fm
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/3vCZkpK/Dorozhnoe.jpg",Дорожное радио | Dorognoe
+#EXTVLCOPT:http-user-agent=vietngatv
+http://dorognoe.hostingradio.ru:8000/dorognoe_acc
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/mFYq4FG/7-na-semi-holmah.png",7 на семи холмах | 7 on seven hills
+#EXTVLCOPT:http-user-agent=vietngatv
+http://radio7server.streamr.ru:8040/radio7128.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/TvHTGGm/kniga-russia.jpg",Книга | Book
+#EXTVLCOPT:http-user-agent=vietngatv
+http://bookradio.hostingradio.ru:8069/fm
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/WP7YgWs/vera-russia.jpg",Вера | Vera
+#EXTVLCOPT:http-user-agent=vietngatv
+http://radiovera.hostingradio.ru:8007/radiovera_128
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/47rty2G/dacha-russia.png",Радио Дача | Dacha
+#EXTVLCOPT:http-user-agent=vietngatv
+http://listen.vdfm.ru:8000/dacha
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/XXPFcJV/zvezda-russia.png",Радио Звезда | Radio Zvezda
+#EXTVLCOPT:http-user-agent=vietngatv
+http://89.208.99.16:8088/zvezda_128
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/X2hhP01/detskoe-radio.jpg",Детское радио | Kids Radio
+#EXTVLCOPT:http-user-agent=vietngatv
+https://ic6.101.ru:8000/stream/air/aac/64/199
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/b3bYMH8/serebryannuy-doghd.png",Серебряный дождь | Silver Rain
+#EXTVLCOPT:http-user-agent=vietngatv
+http://213.59.4.27:8000/silver128.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/KNNGxjN/energy-russia.jpg",Energy Russia
+#EXTVLCOPT:http-user-agent=vietngatv
+https://pub0201.101.ru:8000/stream/air/aac/64/99
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/N1K6c44/avtoradio.png",Авторадио | Autoradio
+#EXTVLCOPT:http-user-agent=vietngatv
+https://ic7.101.ru:8000/a100
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/jVQth7Y/dfm.jpg",DANCE FM
+#EXTVLCOPT:http-user-agent=vietngatv
+https://dfm.hostingradio.ru/dfm96.aacp
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/BfRHwh0/record-russia.jpg",Record Russia
+#EXTVLCOPT:http-user-agent=vietngatv
+http://air.radiorecord.ru:8101/rr_128
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/0cpHydN/pravilnoe-radio.jpg",Правильное Радио | The Right Radio
+#EXTVLCOPT:http-user-agent=vietngatv
+http://78.41.94.37:8332
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/0tvh20F/iskatel.png",Искатель | The Seeker
+#EXTVLCOPT:http-user-agent=vietngatv
+http://iskatel.hostingradio.ru:8015/iskatel-128.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/p3R1S3s/maximum.jpg",Maximum
+#EXTVLCOPT:http-user-agent=vietngatv
+https://maximum.hostingradio.ru/maximum128.mp3
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/jDxnNDt/echo-moscow.jpg",Эхо Москвы | Echo of Moscow
+#EXTVLCOPT:http-user-agent=vietngatv
+https://icecast-echomsksni.cdnvideo.ru/stream
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/TW0mMzb/hitfm-russia.jpg",Хит FM | HIT FM
+#EXTVLCOPT:http-user-agent=vietngatv
+https://hitfm.hostingradio.ru/hitfm96.aacp
+#EXTINF:-1 group-title="Radio" tvg-logo="https://i.ibb.co/NSpHgYP/relaxfm.jpg",Relax FM
+#EXTVLCOPT:http-user-agent=vietngatv
+http://ic7.101.ru:8000/v13_1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMVxd34/HIT.png" group-title="Radio",радио Хит | Radio Hit
+#EXTVLCOPT:http-user-agent=vietngatv
+http://lova.me/hls/hit.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6YCw4hR/Govoritmsk-radio.jpg" group-title="Radio",Радио Говорит Москва | Radio Says Moscow
+#EXTVLCOPT:http-user-agent=vietngatv
+https://video.govoritmoskva.ru/rufm/index.m3u8
+
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQucnHqwsMogEEemVubw/image/",M Radio Việt Nam
+https://stream.zeno.fm/4q7y9hvkp2zuv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQoL-YpAoMogEEemVubw/image/",Cải Lương Việt Nam
+https://stream.zeno.fm/0trm6wrnga0uv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICQ7brTsQgMogEEemVubw/image/",Radio Nhạc Vàng Xưa
+https://stream.zeno.fm/x2z45v7d84zuv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQidjS_wkMogEEemVubw/image/",Radio DJ
+https://stream.zeno.fm/ehbutdfccm0uv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgIDQiavcsgsMogEEemVubw/image/",Radio Phật Giáo
+https://stream.zeno.fm/8456uy0bcm0uv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgICQ2ciKiAoMCxIOU3RhdGlvblByb2ZpbGUYgICw0ILTsQoMogEEemVubw/image/",Radio Nhạc Dân Ca
+https://stream.zeno.fm/a2dbs2tq1p8uv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQi9zzhAgMogEEemVubw/image/",Radio Nhạc Xuân
+https://stream.zeno.fm/hvtxgd85rm0uv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDQz-yvmQsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ7-DDtAgMogEEemVubw/image/",Âm Nhạc Không Khoảng Cách
+https://stream.zeno.fm/bnuzk0znhm8uv
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://proxy.zeno.fm/content/stations/agxzfnplbm8tc3RhdHNyMgsSCkF1dGhDbGllbnQYgIDg2_XVmgsMCxIOU3RhdGlvblByb2ZpbGUYgIDQ6_SHwgoMogEEemVubw/image/",Những Bản Acoustic Cover Hay Nhất
+https://stream.zeno.fm/tk8atfbgtg8uv
+
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://cherryradio.com.au/images/kenhtintuc-player.png",Cherry Radio Tin Tức
+https://sslstreaming.com:7017/;
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://cherryradio.com.au/images/nhactritinh-player.png",Cherry Radio Trữ Tình
+https://stream.zeno.fm/wppep1n7qpeuv.aac 
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://cherryradio.com.au/images/nhactritinh-player.png",Cherry Radio Nhạc Trẻ
+https://stream.zeno.fm/umt5gqmg3reuv.aac
+
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/8/5/4/0/854010f76bddeefd5f13305a1d6cc8be.jpg",On Air
+https://multi-playlist-zmp3.zadn.vn/9tPzLPYORS8/zhls/playback-realtime/a07d79b945fcaca2f5ed/index.m3u8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg",Chạm
+https://multi-playlist-zmp3.zadn.vn/62YE6lXdY4w/zhls/playback-realtime/db68d4afe8ea01b458fb/index.m3u8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/4/6/b/146b49d11cc9b3bc591823bfedb8bce2.jpg",V-Pop
+https://multi-playlist-zmp3.zadn.vn/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/0/9/9/3/0993b3110c60ba6518fceeba9913d20d.jpg",Acoustic
+https://multi-playlist-zmp3.zadn.vn/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/1/3/0/5/1305cd954d22d89fef4354301613fd68.jpg",Bolero
+https://multi-playlist-zmp3.zadn.vn/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/f/3/b/bf3bf87a788a5d0b8719c6feee774a2e.jpg",Rap Việt
+https://multi-playlist-zmp3.zadn.vn/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
+
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/c/f/2/4/cf2428f7e56a8c2a52d84cb106891de2.jpg",Hàn Quốc
+https://multi-playlist-zmp3.zadn.vn/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga" tvg-logo="https://photo-zmp3.zadn.vn/avatars/b/0/d/a/b0da7c8ecd6521337682f3a86fa0170f.jpg",Âu Mỹ
+https://multi-playlist-zmp3.zadn.vn/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 1
+https://www.youtube.com/watch?v=2LNMqq4Lzuw
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 2
+https://www.youtube.com/watch?v=OX-eGx7q5YA
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 3
+https://www.youtube.com/watch?v=fPKT75_72jY
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 4
+https://www.youtube.com/watch?v=_V5WMTs2bqg
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 5
+https://www.youtube.com/watch?v=VFfedXzUVYw
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 6
+https://www.youtube.com/watch?v=VMm8K8W-DFM
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 7
+https://www.youtube.com/watch?v=KVLw3DcXcKw
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 8
+https://www.youtube.com/watch?v=nqD2OlEKaew
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 9
+https://www.youtube.com/watch?v=a6Si1ie2C2U
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 10
+https://www.youtube.com/watch?v=k_cWWZBEEBc
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 11
+https://www.youtube.com/watch?v=pVYhtujM2SY
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 1980s
+https://www.youtube.com/watch?v=iKycSYw1Cr4
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 1990s
+https://www.youtube.com/watch?v=oK3tGXfjVz8
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian 2000s
+https://www.youtube.com/watch?v=MuRaX2K6KrQ
+#EXTINF:-1 group-title="Âm Nhạc Việt - Nga",Russian Rock
+https://www.youtube.com/watch?v=qtBLV6rugCw

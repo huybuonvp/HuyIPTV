@@ -622,7 +622,7 @@ http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://92.43.140.200/s23/04.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="Giải Trí Việt - Nga" tvg-logo="https://i.imgur.com/69pCK1u.png",AXN HD
 #EXTVLCOPT:http-user-agent=(_._)
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+https://live-on-sigma-drm-v2-vtvlive.gviet.vn/manifest/man/playlist_720p.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.imgur.com/rDkxPUU.png",ARIRANG Korea
 #EXTVLCOPT:http-user-agent=(_._)
 https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8

@@ -607,7 +607,7 @@ https://yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="Quốc tế",Aljazeera Arabic HD
 #EXTVLCOPT:http-user-agent=(_._)
-https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+https://live-on-sigma-drm-v2-vtvlive.gviet.vn/manifest/man/playlist_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x9TQYI3.jpg" group-title="Quốc tế",MAN HD
 #EXTVLCOPT:http-user-agent=(_._)
 https://live-on-sigma-drm-v2-vtvlive.gviet.vn/manifest/man/playlist_720p.m3u8
